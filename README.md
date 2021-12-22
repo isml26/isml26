@@ -1,5 +1,5 @@
 ### Hi there 👋
--🔭 I'm currently developing backend and frontend projects.
+-🔭 I'am a 3rd year computeer engineering student at AYBU.I'm currently developing backend and frontend projects.
 <br />
 <br />
 ### Connect with me:
