@@ -1,7 +1,10 @@
 ### Hi there 👋
--🔭 I am a 3rd year computer engineering student at AYBU.I'm currently developing backend and frontend projects.
+- 🔭 I am a 3rd year computer engineering student at AYBU.I'm currently developing full stack projects and deploy them.
+- 🌱  I’m currently learning **DevOPS techs and Backend concepts**
+- 📫  iguven1999@hotmail.com
 <br />
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ismail-guven/)
