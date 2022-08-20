@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I am a 3rd year computer engineering student at AYBU.I'm currently developing full stack projects and deploy them.
+- 🔭 I am a 4rd year computer engineering student at AYBU.I'm currently developing full stack projects and deploy them.
 - 🌱  I’m currently learning **DevOPS techs and Backend concepts**
 - 📫  iguven1999@hotmail.com
 <br />
