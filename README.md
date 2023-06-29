@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I am a 4th year computer engineering student at AYBU.I'm currently developing full stack projects and deploy them.
+- Passionate and determined software developer specializing in high quality, clean code and efficient solutions. With a strong work ethic and collaborative mindset, I thrive on tackling complex challenges and delivering effective results.
 - 🌱  I’m currently learning **DevOPS techs and Backend concepts**
 - 📫  iguven1999@hotmail.com
 <br />
